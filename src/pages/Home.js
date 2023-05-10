@@ -37,7 +37,7 @@ const Home = () => {
     return (
         <div className="homePageWrapper">
             <div className="formWrapper">
-                <h1 className="homePageLogo">CollabCode.IO</h1>
+                <h1 className="homePageLogo">Virtual Env.</h1>
                 <h4 className="mainLabel">Paste invitation ROOM ID</h4>
                 <div className="inputGroup">
                     <input

@@ -96,8 +96,7 @@ const EditorPage = () => {
             <div className="aside">
                 <div className="asideInner">
                     <div className="logo">
-                        <h1>CollabCode.IO
-                        </h1>
+                        <h1>Virtual Env.</h1>
                     </div>
                     <h3>Connected</h3>
                     <div className="clientsList">
@@ -109,12 +108,12 @@ const EditorPage = () => {
                         ))}
                     </div>
                 </div>
-                <button className="btn copyBtn" onClick={copyRoomId}>
+                {/* <button className="btn copyBtn" onClick={copyRoomId}>
                     Copy ROOM ID
-                </button>
-                <button className="btn leaveBtn" onClick={leaveRoom}>
-                    Leave
-                </button>
+                </button> */}
+                {/* <button className="btn leaveBtn" onClick={leaveRoom}>
+                    Leavenp
+                </button> */}
             </div>
             <div className="editorWrap">
                 <Editor

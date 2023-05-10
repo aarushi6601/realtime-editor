@@ -9,7 +9,7 @@
 }
 
 .formWrapper {
-    background: #282a36;
+    background: #12163b;
     padding: 20px;
     border-radius: 10px;
     width: 400px;
@@ -62,14 +62,14 @@
 
 .joinBtn,
 .leaveBtn {
-    background: aqua;
+    background: #03A9F4;
     width: 100px;
     margin-left: auto;
 }
 
 .joinBtn:hover,
 .leaveBtn:hover {
-    background: rgb(15, 174, 174);;
+    background: #760dff;
 }
 
 .createInfo {
@@ -78,15 +78,15 @@
 }
 
 .createNewBtn {
-    color: aqua;
+    color: #760dff;
     text-decoration: none;
-    border-bottom: 1px solid aqua;
+    border-bottom: 1px solid #760dff;
     transition: all 0.3s ease-in-out;
 }
 
 .createNewBtn:hover{
-    color: rgb(15, 174, 174);
-    border-color: rgb(15, 174, 174);
+    color: #760dff(15, 174, 174);
+    border-color: #760dff(15, 174, 174);
 }
 
 .mainWrap {
@@ -123,7 +123,7 @@
 }
 
 .logo {
-    background: -webkit-linear-gradient(aqua,rgb(47, 189, 189));
+    background: #fff;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 10px;
